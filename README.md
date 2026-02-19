@@ -101,19 +101,6 @@ I'm actively interested in:
 - 🎓 Knowledge sharing through documentation and examples
 - 🔧 Learning from experienced security engineers
 - 💬 Discussing security challenges and solutions
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing security challenges, collaborating on security projects, and exploring the frontier of AI security!
-
-- 💼 **LinkedIn**: [Kishan Ganta](https://www.linkedin.com/in/kishorganta)
-- 🐦 **Twitter/X**: [@kishorganta](https://twitter.com/kishorganta)
-- 📧 **Email**: kishorganta@example.com
-- 🌐 **Portfolio**: [My Security Work](#)
-- 🔗 **Bug Bounty**: [HackerOne Profile](#)
-
 ---
 
 ## 💡 My Security Philosophy
